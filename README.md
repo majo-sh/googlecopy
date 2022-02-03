@@ -1,2 +1,2 @@
 # googlecopy
-Practiva de CSS y HTML
+Practica de CSS y HTML
